@@ -1,0 +1,39 @@
+# large sequence files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.vcf
+*.bcf
+*.fa
+*.fasta
+*.fna
+*.gff
+*.gtf
+*.bed
+*.bt2
+*.bai
+*.idx
+*.sai
+
+# compressed outputs
+*.zip
+*.tar
+*.tar.gz
+
+# logs / temp
+*.out
+*.err
+*.log
+*.tmp
+*.swp
+
+# R stuff
+.Rhistory
+.RData
+.Rproj.user/
+
+# mac/linux junk
+.DS_Store
