@@ -35,8 +35,7 @@ Genome Analysis Labs 2026
 Large raw/intermediate files are **not uploaded to GitHub**.  
 Only scripts, documentation, figures, and small result files are tracked here.
 
-## Wiki
-- Home
+## Wiki/ Home page
 - Project Plan
 - Paper Summary
 - Methods
