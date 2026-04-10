@@ -9,36 +9,34 @@ Aida Rezaei
 ## Course
 Genome Analysis Labs 2026
 
-## Repository purpose
-This repository documents my Genome Analysis project, including:
-- project planning
-- code/scripts
-- workflow documentation
-- results
-- biological interpretation
+## Repository parts
+- Project plan
+- Code/scripts
+- Workflow
+- Results
+- Biological interpretation
 
 ## Main project goals
-- Reproduce key analyses from the paper
+- Reproduce the results and analyses from the paper
 - Assemble and annotate the genome
-- Analyze RNA-seq data from serum vs rich medium
-- Perform differential expression analysis
-- Extend the project with extra analyses for Grade 5
+- RNA-seq analysis from serum vs rich nutrient environments
+- Differential expression analysis
+- Extra Analyses
+  
+## Repository organization
+- `data/`: metadata and input file
+- `analyses/`: outputs from each analysis step
+- `code/`: scripts and codes for each step
+- `results/`: figures and tables
+- `docs/`: notes, research, and documentatopn
+- `logs/`: logs and troubleshooting (if any)
 
-## Repository structure
-
-- `data/` → metadata and input file organization
-- `analyses/` → outputs from each analysis step
-- `code/` → scripts used in the project
-- `results/` → final figures and tables
-- `docs/` → notes and supporting documentation
-- `logs/` → run logs and troubleshooting
-
-## Important note
+## Data handling
 Large raw/intermediate files are **not uploaded to GitHub**.  
 Only scripts, documentation, figures, and small result files are tracked here.
 
 ## Wiki
-See the GitHub Wiki for:
+- Home
 - Project Plan
 - Paper Summary
 - Methods
